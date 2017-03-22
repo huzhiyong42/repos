@@ -1,5 +1,7 @@
 public class hello{
 public static void main(String [] args){
-	Sysytem.out.println("hello world);
+	Syytem.out.println("hello world);
+	System.out.println("----------");
+	System.out.println("+++++++++++++");
 }
 }
